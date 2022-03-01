@@ -1,4 +1,4 @@
-# Aprendendo a usar o GitHub e Git
+# Repositório para fins didaticos além de entrega de projetos para a plataforma DIO
 
-- Dia 1: Commits, Status dos Arquivos, Git Init, Git Add, Repositorios, Chaves SSH, Trees.
+
 
